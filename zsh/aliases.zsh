@@ -1,4 +1,4 @@
-alias reload!='. ~/.zshrc'
+alias !reload='. ~/.zshrc'
 alias dotconfig="cd ~/.dotfiles && e"
 alias ps="python3 -m http.server 8000"
 

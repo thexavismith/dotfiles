@@ -1,0 +1,98 @@
+# Fast and simple Node.js version manager
+brew "fnm"
+# Open-source, cross-platform JavaScript runtime environment
+brew "node"
+# Display directories as trees (with optional color/HTML output)
+brew "tree"
+# Password manager that keeps all passwords secure behind one password
+cask "1password"
+# Command-line interface for 1Password
+cask "1password-cli"
+# Collection of apps and services for photography, design, video, web, and UX
+cask "adobe-creative-cloud"
+# Speech-to-text system
+cask "aqua-voice"
+# Contacts manager
+cask "cardhop"
+# Anthropic's official Claude AI desktop app
+cask "claude"
+# Voice and text chat software
+cask "discord"
+# Calendar software
+cask "fantastical"
+# Terminal emulator that uses platform-native UI and GPU acceleration
+cask "ghostty"
+# Web browser
+cask "google-chrome"
+# Grammarly for desktop
+cask "grammarly-desktop"
+# Automated organisation
+cask "hazel"
+# Chromium-based web browser
+cask "helium-browser"
+# Tool to optimise images to a smaller size
+cask "imageoptim"
+# Native app email client for Gmail
+cask "mimestream"
+# Knowledge base that works on top of a local folder of plain text Markdown files
+cask "obsidian"
+# Collection of apps available by subscription
+cask "setapp"
+# Screenshot measurement and annotation tool
+cask "shottr"
+# Team communication and collaboration software
+cask "slack"
+# Open-source code editor
+cask "visual-studio-code"
+# Rust-based terminal
+cask "warp"
+vscode "alefragnani.project-manager"
+vscode "alexandernanberg.horizon-theme-vscode"
+vscode "bierner.markdown-preview-github-styles"
+vscode "bradgashler.htmltagwrap"
+vscode "bradlc.vscode-tailwindcss"
+vscode "brittanychiang.halcyon-vscode"
+vscode "christian-kohler.npm-intellisense"
+vscode "christian-kohler.path-intellisense"
+vscode "compulim.compulim-vscode-closetag"
+vscode "csstools.postcss"
+vscode "davidanson.vscode-markdownlint"
+vscode "dbaeumer.vscode-eslint"
+vscode "dotiful.dotfiles-syntax-highlighting"
+vscode "dracula-theme.theme-dracula"
+vscode "editorconfig.editorconfig"
+vscode "eliverlara.andromeda"
+vscode "enkia.tokyo-night"
+vscode "esbenp.prettier-vscode"
+vscode "formulahendry.auto-rename-tag"
+vscode "gabrielrose.wordpress-theme-json-css-autosuggest"
+vscode "github.copilot-chat"
+vscode "github.github-vscode-theme"
+vscode "gulajavaministudio.mayukaithemevsc"
+vscode "helgardrichard.helium-icon-theme"
+vscode "heron.firefox-devtools-theme"
+vscode "jaredkent.laserwave"
+vscode "jonkwheeler.styled-components-snippets"
+vscode "joytrekker.rainier"
+vscode "kamikillerto.vscode-colorize"
+vscode "massivedanger.fountain"
+vscode "mvllow.rose-pine"
+vscode "neilbrayfield.php-docblocker"
+vscode "neilding.language-liquid"
+vscode "persoderlind.vscode-phpcbf"
+vscode "pkief.material-icon-theme"
+vscode "pnp.polacode"
+vscode "prisma.prisma"
+vscode "ronnidc.nunjucks"
+vscode "sdras.night-owl"
+vscode "shd101wyy.markdown-preview-enhanced"
+vscode "shevaua.phpcs"
+vscode "styled-components.vscode-styled-components"
+vscode "stylelint.vscode-stylelint"
+vscode "sujan.code-blue"
+vscode "tinkertrain.theme-panda"
+vscode "tock.vscode-css-custom-properties"
+vscode "vscode-icons-team.vscode-icons"
+vscode "wordpresstoolbox.wordpress-toolbox"
+vscode "xyz.plsql-language"
+vscode "zignd.html-css-class-completion"
