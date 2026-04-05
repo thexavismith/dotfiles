@@ -1,0 +1,19 @@
+#!/bin/sh
+#
+# claude-or
+#
+# Launch Claude Code pointed at OpenRouter.
+# Reads OPENROUTER_API_KEY from the environment — set it in zsh/env.zsh.
+# Does not touch the normal Claude / Anthropic setup.
+
+if [ -z "$OPENROUTER_API_KEY" ]; then
+  echo "claude-or: OPENROUTER_API_KEY is not set. Add it to zsh/env.zsh." >&2
+  exit 1
+fi
+
+ANTHROPIC_BASE_URL="https://openrouter.ai/api" \
+ANTHROPIC_AUTH_TOKEN="$OPENROUTER_API_KEY" \
+ANTHROPIC_API_KEY="" \
+ANTHROPIC_MODEL="nvidia/nemotron-3-super-120b-a12b:free" \
+CLAUDE_CODE_SUBAGENT_MODEL="nvidia/nemotron-3-super-120b-a12b:free" \
+claude "$@"
