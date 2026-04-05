@@ -14,6 +14,6 @@ fi
 ANTHROPIC_BASE_URL="https://openrouter.ai/api" \
 ANTHROPIC_AUTH_TOKEN="$OPENROUTER_API_KEY" \
 ANTHROPIC_API_KEY="" \
-ANTHROPIC_MODEL="nvidia/nemotron-3-super-120b-a12b:free" \
-CLAUDE_CODE_SUBAGENT_MODEL="nvidia/nemotron-3-super-120b-a12b:free" \
+ANTHROPIC_MODEL="qwen/qwen3.6-plus:free" \
+CLAUDE_CODE_SUBAGENT_MODEL="qwen/qwen3.6-plus:free" \
 claude "$@"
