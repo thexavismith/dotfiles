@@ -8,7 +8,7 @@ On a mission to version control everything I possibly can. Not only does this ma
 
 <!-- code_chunk_output -->
 
-- [Tim’s Dotfiles](#tims-dotfiles)
+- [Xavi’s Dotfiles](#xavis-dotfiles)
   - [Installing](#installing)
   - [How things are organized](#how-things-are-organized)
   - [What's inside](#whats-inside)
