@@ -5,5 +5,8 @@ git/gitconfig.local.symlink
 ssh.symlink/
 !ssh.symlink/config
 
+# Env variables that I don't want to share
+zsh/env.zsh
+
 # Ignore stupid .DS_Store
 .DS_Store
