@@ -1,3 +1,30 @@
+# [1.4.0](https://github.com/smithtimmytim/dotfiles/compare/v1.3.2...v1.4.0) (2026-04-06)
+
+
+### Bug Fixes
+
+* **git:** update gpg ([12b3ff9](https://github.com/smithtimmytim/dotfiles/commit/12b3ff9b75b6846a8e5ce5cb2b2037ed6fba57c5))
+* **homebrew:** update brewfile name ([c2b7685](https://github.com/smithtimmytim/dotfiles/commit/c2b7685e514153ad69063f9cc8e483c928bafaec))
+* **zsh:** fix reload alias ([d8144e8](https://github.com/smithtimmytim/dotfiles/commit/d8144e88a21e4ea66c56126ea2a1206e16acdcef))
+
+
+### Features
+
+* add CLAUDE.md, OpenRouter launcher, and gitignore ([ecedd36](https://github.com/smithtimmytim/dotfiles/commit/ecedd36909bda37867cbedfc741eecb4def38a7f))
+* **claude:** create open router wrapper ([42e28d5](https://github.com/smithtimmytim/dotfiles/commit/42e28d503a71c4d9b1fcaf3709c3b24debf8b8a1))
+* **python:** add path for python ([ac9d0da](https://github.com/smithtimmytim/dotfiles/commit/ac9d0daeb6757af066ae4da086a61c8e812726ee))
+* **python:** add pip alias ([ca4de33](https://github.com/smithtimmytim/dotfiles/commit/ca4de33e294a13b2ba79ca29bbb8462800d395b0))
+
+## [1.3.2](https://github.com/smithtimmytim/dotfiles/compare/v1.3.1...v1.3.2) (2026-04-04)
+
+## [1.3.1](https://github.com/smithtimmytim/dotfiles/compare/v1.3.0...v1.3.1) (2022-09-01)
+
+
+### Bug Fixes
+
+* **homebrew:** remove imagemagick and mysql ([34c8707](https://github.com/smithtimmytim/dotfiles/commit/34c8707e8497f8777a71cf125592e55d2934a5bb))
+* **homebrew:** update homebrew path ([4dda6df](https://github.com/smithtimmytim/dotfiles/commit/4dda6dfe51f1f04edc7f1c337d2aaa26066bae1d))
+
 # [1.3.0](https://github.com/smithtimmytim/dotfiles/compare/v1.2.1...v1.3.0) (2022-08-31)
 
 
