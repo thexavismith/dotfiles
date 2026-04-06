@@ -5,6 +5,11 @@ git/gitconfig.local.symlink
 ssh.symlink/
 !ssh.symlink/config
 
+# gpg Stuff that I don't want to be public
+gnupg.symlink
+# Allow gpg-agent.conf to be tracked even though gnupg.symlink is ignored
+!gnupg.symlink/gpg-agent.conf
+
 # Env variables that I don't want to share
 zsh/env.zsh
 
