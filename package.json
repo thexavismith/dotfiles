@@ -7,16 +7,16 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/smithtimmytim/dotfiles.git"
+    "url": "git+https://github.com/thexavismith/dotfiles.git"
   },
   "keywords": [
     "dotfiles",
     "shell",
     "scripts"
   ],
-  "homepage": "https://github.com/smithtimmytim/dotfiles#readme",
+  "homepage": "https://github.com/thexavismith/dotfiles#readme",
   "bugs": {
-    "url": "https://github.com/smithtimmytim/dotfiles/issues"
+    "url": "https://github.com/thexavismith/dotfiles/issues"
   },
   "scripts": {
     "prepare": "husky install",
