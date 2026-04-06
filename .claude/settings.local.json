@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C /Users/timothybsmith/.dotfiles status)",
+      "Bash(git -C /Users/timothybsmith/.dotfiles diff)",
+      "Bash(git -C /Users/timothybsmith/.dotfiles add system/_path.zsh zsh/zshrc.symlink)",
+      "Bash(git -C:*)"
+    ]
+  }
+}
