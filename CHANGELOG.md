@@ -1,3 +1,17 @@
+# [1.6.0](https://github.com/thexavismith/dotfiles/compare/v1.5.0...v1.6.0) (2026-04-06)
+
+
+### Bug Fixes
+
+* update node version ([403267e](https://github.com/thexavismith/dotfiles/commit/403267eb9b108dc863fe001612c28045defa41ed))
+* update package.json ([373e7a4](https://github.com/thexavismith/dotfiles/commit/373e7a4cf876c50186aed90be60982d4be9c28aa))
+
+
+### Features
+
+* **npm:** updating dependencies BREAKING CHANGE ([bc4aeb4](https://github.com/thexavismith/dotfiles/commit/bc4aeb4d88d135d0d50929338526ecdb6da9c800))
+* **npm:** updating dependencies BREAKING CHANGE ([#8](https://github.com/thexavismith/dotfiles/issues/8)) ([23029ff](https://github.com/thexavismith/dotfiles/commit/23029ff2a4f15b3a2093824723a06e8873e26797))
+
 # [1.5.0](https://github.com/smithtimmytim/dotfiles/compare/v1.4.0...v1.5.0) (2026-04-06)
 
 
