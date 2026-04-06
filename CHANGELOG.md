@@ -1,3 +1,20 @@
+# [1.5.0](https://github.com/smithtimmytim/dotfiles/compare/v1.4.0...v1.5.0) (2026-04-06)
+
+
+### Bug Fixes
+
+* **git:** ignore gpg stuff ([312fe81](https://github.com/smithtimmytim/dotfiles/commit/312fe81bae5a7a1421037cf8a7cd8fa27391b729))
+* **git:** update gitconfig ([8488d3f](https://github.com/smithtimmytim/dotfiles/commit/8488d3f29812c0230f7689af74457b44dd4cf779))
+* **ssh:** update pubkey alias ([e85b9a1](https://github.com/smithtimmytim/dotfiles/commit/e85b9a1fb6b007ec9acf153ba3a2b2e0878941dd))
+* **system:** remove redundant /usr/local/bin from PATH ([ba454ed](https://github.com/smithtimmytim/dotfiles/commit/ba454ed22cf679769b671a1a65c00668fd94bb69))
+* update license ([883c578](https://github.com/smithtimmytim/dotfiles/commit/883c578f194eb840e1119bc0c29a955a3ab769d4))
+
+
+### Features
+
+* **gpg:** use gui for password ([4dd647b](https://github.com/smithtimmytim/dotfiles/commit/4dd647b1b15c6e729a2ae759cc1395fba3bec263))
+* **obsidian:** add path for CLI ([9c95a9e](https://github.com/smithtimmytim/dotfiles/commit/9c95a9e8f1694e548cf61bcd079050eb271981aa))
+
 # [1.4.0](https://github.com/smithtimmytim/dotfiles/compare/v1.3.2...v1.4.0) (2026-04-06)
 
 
