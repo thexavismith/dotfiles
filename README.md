@@ -1,4 +1,4 @@
-# Tim’s Dotfiles
+# Xavi’s Dotfiles
 
 These are my dotfiles.
 
@@ -24,7 +24,7 @@ Run this:
 
 ```sh
 # Clone the repo
-git clone git@github.com:smithtimmytim/dotfiles.git ~/.dotfiles
+git clone git@github.com:thexavismith/dotfiles.git ~/.dotfiles
 
 # Move into directory
 cd ~/.dotfiles
@@ -52,7 +52,7 @@ Everything's built around topic areas. If you're adding a new area to your forke
 
 ## What's inside
 
-Lots of stuff. Check them out in the file browser above and see what components may mesh up with you. [Fork it](https://github.com/smithtimmytim/dotfiles/fork), remove what you don't use, and build on what you do use.
+Lots of stuff. Check them out in the file browser above and see what components may mesh up with you. [Fork it](https://github.com/thexavismith/dotfiles/fork), remove what you don't use, and build on what you do use.
 
 ### Components
 
@@ -74,10 +74,10 @@ There's a few special files in the hierarchy.
 
 ## Reporting bugs
 
-I want this to work for everyone. That said, I do use this as *my* dotfiles, so there's a good chance I may break something if I forget to make a check for a dependency.
+I want this to work for everyone. That said, I do use this as _my_ dotfiles, so there's a good chance I may break something if I forget to make a check for a dependency.
 
 If you're brand-new to the project and run into any blockers, please
-[open an issue](https://github.com/smithtimmytim/dotfiles/issues/new) on this repository and I'll try to help you out!
+[open an issue](https://github.com/thexavismith/dotfiles/issues/new) on this repository and I'll try to help you out!
 
 ## Thank you ❤️
 

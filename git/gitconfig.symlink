@@ -21,7 +21,7 @@
   defaultBranch = trunk
 
 [gpg]
-  program = gpg2
+	program = gpg
 
 [filter "lfs"]
   clean = git-lfs clean -- %f
