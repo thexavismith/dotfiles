@@ -2,21 +2,21 @@
   "author": "Timothy B. Smith",
   "license": "ISC",
   "name": "dotfiles",
-  "version": "1.3.0",
+  "version": "1.5.0",
   "description": "My dotfiles",
   "private": true,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/smithtimmytim/dotfiles.git"
+    "url": "git+https://github.com/thexavismith/dotfiles.git"
   },
   "keywords": [
     "dotfiles",
     "shell",
     "scripts"
   ],
-  "homepage": "https://github.com/smithtimmytim/dotfiles#readme",
+  "homepage": "https://github.com/thexavismith/dotfiles#readme",
   "bugs": {
-    "url": "https://github.com/smithtimmytim/dotfiles/issues"
+    "url": "https://github.com/thexavismith/dotfiles/issues"
   },
   "scripts": {
     "prepare": "husky install",
@@ -24,12 +24,12 @@
     "install:dotfiles": "./script/bootstrap"
   },
   "devDependencies": {
-    "@commitlint/cli": "^17.0.3",
-    "@commitlint/config-angular": "^17.0.3",
-    "@semantic-release/changelog": "^6.0.1",
+    "@commitlint/cli": "^20.5.0",
+    "@commitlint/config-angular": "^20.5.0",
+    "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/git": "^10.0.1",
-    "husky": "^8.0.1",
-    "semantic-release": "^19.0.5"
+    "husky": "^9.1.7",
+    "semantic-release": "^25.0.3"
   },
   "release": {
     "branches": [
